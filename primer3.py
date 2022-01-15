@@ -1,2 +1,2 @@
-import modul as slojeniedvuchisel
-print(slojeniedvuchisel.sum(1,3))
+import modul as BEGIN
+print(BEGIN.sum(1,3))
